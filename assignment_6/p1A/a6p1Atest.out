@@ -1,0 +1,120 @@
+test case 1 of 900000
+array: 6  
+limn_returned--> -999 == -999 <--limn_ought2b
+test case 2 of 900000
+array: -6  1  -1  1  2  -7  -2  -8  0  
+limn_returned--> 7 == 7 <--limn_ought2b
+test case 3 of 900000
+array: 1  -8  1  -2  8  -4  0  1  6  -1  3  -2  3  -3  -2  -4  -8  -3  -5  8  
+limn_returned--> 1 == 1 <--limn_ought2b
+test case 4 of 900000
+array: -5  -4  5  6  4  7  -9  5  -6  -8  -7  -7  
+limn_returned--> 6 == 6 <--limn_ought2b
+test case 5 of 900000
+array: 0  7  5  7  -2  -1  -4  -8  6  5  -5  -6  7  -4  0  -7  -6  4  -6  -4  
+limn_returned--> 7 == 7 <--limn_ought2b
+test case 6 of 900000
+array: 6  9  -6  4  1  -3  5  4  -4  -8  -9  -6  4  4  1  -7  9  -1  
+limn_returned--> 10 == 10 <--limn_ought2b
+test case 7 of 900000
+array: 
+limn_returned--> -999 == -999 <--limn_ought2b
+test case 8 of 900000
+array: 3  8  
+limn_returned--> -999 == -999 <--limn_ought2b
+test case 9 of 900000
+array: 9  -5  1  9  8  2  -4  -5  -2  -8  -5  -8  
+limn_returned--> 9 == 9 <--limn_ought2b
+================================
+array: -9  8  9  6  -8  0  
+limn returned: 0	limn ought2b: 0
+================================
+array: 1  -2  2  2  9  -4  
+limn returned: 5	limn ought2b: 5
+================================
+array: -2  -7  0  3  0  -2  3  0  -1  5  -6  -4  6  
+limn returned: 1	limn ought2b: 1
+================================
+array: 0  -9  5  -3  -3  1  6  -3  -6  0  -1  1  -6  
+limn returned: 1	limn ought2b: 1
+================================
+array: -7  -2  0  -7  -7  1  4  -9  4  -5  8  -1  -8  
+limn returned: 7	limn ought2b: 7
+================================
+array: 6  7  7  2  -5  9  -6  -3  0  
+limn returned: 6	limn ought2b: 6
+================================
+array: -4  
+limn returned: 0	limn ought2b: 0
+================================
+array: -6  -9  -2  1  -9  -8  5  -6  -1  5  6  
+limn returned: 1	limn ought2b: 1
+================================
+array: -2  -2  -4  -4  -7  1  7  -6  -3  3  4  -2  -7  -8  -6  -9  
+limn returned: 15	limn ought2b: 15
+================================
+array: -2  -7  2  -9  -7  -8  7  1  3  5  -1  -4  
+limn returned: 3	limn ought2b: 3
+================================
+array: -3  
+limn returned: 0	limn ought2b: 0
+================================
+array: 7  1  -8  3  -2  -7  -9  -8  5  -6  2  9  2  -8  6  
+limn returned: 6	limn ought2b: 6
+================================
+array: 2  9  
+limn returned: -999	limn ought2b: -999
+================================
+array: -2  -2  0  0  9  1  1  
+limn returned: 0	limn ought2b: 0
+================================
+array: 5  6  0  2  -2  
+limn returned: 4	limn ought2b: 4
+================================
+array: 8  -6  -9  -3  5  -7  -8  -6  -7  -9  -6  -9  
+limn returned: 2	limn ought2b: 2
+================================
+array: -8  9  2  6  -8  -8  9  6  2  4  5  5  9  -9  
+limn returned: 13	limn ought2b: 13
+================================
+array: 8  
+limn returned: -999	limn ought2b: -999
+================================
+array: 4  3  -4  5  5  6  -7  5  -3  2  0  -9  -9  -3  
+limn returned: 11	limn ought2b: 11
+================================
+array: -2  4  0  
+limn returned: 0	limn ought2b: 0
+================================
+array: 0  4  -9  -3  9  -1  -5  -9  -5  -8  -9  -8  -6  -9  -5  6  -8  -3  -9  
+limn returned: 2	limn ought2b: 2
+================================
+array: 8  9  6  5  -3  -1  0  -7  -1  -9  
+limn returned: 9	limn ought2b: 9
+================================
+array: -6  -1  -8  
+limn returned: 2	limn ought2b: 2
+================================
+array: 
+limn returned: -999	limn ought2b: -999
+================================
+array: 3  -2  0  
+limn returned: 1	limn ought2b: 1
+================================
+array: -7  1  5  
+limn returned: 0	limn ought2b: 0
+================================
+array: 5  -4  2  -8  -1  -7  8  -6  -6  
+limn returned: 3	limn ought2b: 3
+================================
+array: 4  5  8  1  8  
+limn returned: -999	limn ought2b: -999
+================================
+array: -8  3  -2  -4  7  -1  
+limn returned: 0	limn ought2b: 0
+================================
+array: -6  -7  9  7  9  -6  -8  7  9  -8  3  -5  -7  9  -3  6  3  3  4  -6  
+limn returned: 6	limn ought2b: 6
+================================
+test program terminated normally
+================================
